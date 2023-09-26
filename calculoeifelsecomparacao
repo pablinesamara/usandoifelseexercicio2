@@ -1,0 +1,12 @@
+fun main() {
+    var x:Int=15
+    var y:Int=20
+    var z:Int=0
+    
+    z=x*y
+    if (z>=58){
+        println("Resultado de z $z portanto maior que 58")
+    }else{
+        print("Resultado de z $z portanto não é maior")
+    }    
+}
